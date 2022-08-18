@@ -1,0 +1,489 @@
+REPORTABLE
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION 
+CIVIL APPEAL NOS. 1811­1812 OF 2022
+VALLAL RCK           ...APPELLANT(S)
+VERSUS
+M/S SIVA INDUSTRIES AND HOLDINGS 
+LIMITED AND OTHERS    ...RESPONDENT(S)
+J U D G M E N T
+B.R. GAVAI, J.
+1.These   appeals   challenge   the   common   judgment
+dated   28th  January   2022   passed  by   the   learned  National
+Company Law Appellate Tribunal, Chennai Bench, Chennai
+(hereinafter referred to as the “NCLAT”) in Company Appeal
+(AT)(CH)(Insolvency)   Nos.   211   and   212   of   2021,   thereby
+dismissing the appeals filed by the present appellant, which
+were   in   turn   filed,   challenging   the   two   orders   dated   12th
+August 2021 passed by the learned National Company Law
+Tribunal, Division Bench­II, Chennai (hereinafter referred to
+1as the “NCLT”), thereby rejecting the application filed by the
+Resolution Professional (“RP” for short) under Section 12A of
+the Insolvency and Bankruptcy Code, 2016 (“IBC” for short)
+read with Regulation 30A of the Insolvency and Bankruptcy
+Board of India (Insolvency Resolution Process for Corporate
+Persons) Regulations, 2016 (hereinafter referred to as the
+“2016 Regulations”), for withdrawal of the application filed
+under Section 7 of the IBC in view of the Settlement Plan
+submitted   by   the   appellant.   The   appellant   has   also
+challenged the order passed by the learned NCLAT of the
+even   date   vide   which   the   appeal   filed   by   the   present
+appellant   against   the   order   passed   by   the   learned   NCLT
+directing initiation of liquidation proceedings in respect of
+M/s Siva Industries and Holdings Limited­respondent No.1
+herein (hereinafter referred to as the “Corporate Debtor”),
+was dismissed.
+2.A short question that falls for consideration in the
+present appeal is as to whether the adjudicating authority
+(NCLT)   or   the   appellate   authority   (NCLAT)   can   sit   in   an
+2appeal   over   the   commercial   wisdom   of   the   Committee   of
+Creditors (hereinafter referred to as the “CoC”) or not.
+3.The facts in brief giving rise to the present appeals
+are as under:
+IDBI   Bank   Limited   had   filed   an   application   under
+Section 7 of the IBC for initiation of Corporate Insolvency
+Resolution Process (hereinafter referred to as the “CIRP”) in
+respect of the Corporate Debtor.  The learned NCLT, vide its
+order dated 4th July 2019, admitted the said application.  As
+a result of which, CIRP in respect of the Corporate Debtor
+was initiated.  The RP had presented a Resolution Plan before
+the CoC, submitted by one M/s Royal Partners Investment
+Fund Limited.   However, since the said Plan received only
+60.90% votes of the CoC and could not meet the requirement
+of receiving 66% votes, the said Plan could not be approved.
+4.The RP, on 8th May 2020, filed an application being
+IA/837/IB/2020 under Section 33(1)(a) of the IBC seeking
+initiation of liquidation process of the Corporate Debtor.  The
+appellant, who is the promoter of the Corporate Debtor, filed
+3a settlement application being IA/647/IB/2020 before the
+NCLT under Section 60(5) of the IBC, showing his willingness
+to   offer   one­time   settlement   plan.     The   appellant   sought
+necessary directions to the CoC to consider the terms of
+Settlement Plan as proposed by him.   From the month of
+October to December 2020, the 13th, 14th and 15th meetings
+of the CoC were held to consider the Settlement Plan as
+submitted by the appellant.  Deliberations took place in the
+said meetings with regard to the said Settlement Plan and
+the final settlement proposal which was submitted by the
+appellant   came   to   be   considered   by   the   CoC   in   its   16th
+meeting   held   on   18th  January   2021.     Initially,   the   said
+Settlement   Plan   received   only   70.63%   votes.     However
+subsequently,   one   of   the   Financial   Creditors   viz.
+International   Assets   Reconstruction   Co.   Ltd.   (hereinafter
+referred   to   as   “IARCL”)   having   voting   share   of   23.60%,
+decided to approve the said Settlement Plan and intimated
+the RP about the same.
+5.Since the said Settlement Plan stood approved by
+more than 90% voting share, the RP filed an application
+4before the learned NCLT seeking necessary directions based
+on the request of IARCL.   Vide its order dated 29th  March
+2021,   the   learned   NCLT   ordered   the   RP   to   reconvene   a
+meeting  of   CoC   and  place  the   e­mail  of   IARCL  before   it.
+Accordingly, the 17th CoC meeting was convened on 1st April
+2021, wherein the said Settlement Plan was approved with a
+voting   majority   of   94.23%.     Accordingly,   the   RP   filed   an
+application   being   MA/43/CHE/2021   in   IBA/453/2019
+before the learned NCLT seeking withdrawal of CIRP initiated
+against the Corporate Debtor in view of the approval of the
+said Settlement Plan by CoC.
+6.The learned NCLT, vide its order dated 12th August
+2021, while holding that the said Settlement Plan was not a
+settlement simpliciter under Section 12A of the IBC but a
+“Business Restructuring Plan”, rejected the application for
+withdrawal   of   CIRP   and   approval  of   the   Settlement   Plan.
+Vide another order of even date, the learned NCLT initiated
+liquidation   process   of   the   Corporate   Debtor   in
+IA/837/IB/2020   as   well.     Being   aggrieved   thereby,   the
+appellant preferred two appeals before the learned NCLAT.
+5Vide the common impugned judgment dated 28th  January
+2022, the same came to be dismissed. Hence, the present
+appeals.
+7.Notice   was   issued   by   this   Court   in   the   present
+appeals on 11th March 2022.  While issuing notice, this Court
+also granted stay of the impugned judgment.  Insofar as the
+respondent   No.1   is   concerned,   no   one   appeared.     Shri
+Abhishek Swaroop, learned counsel appearing on behalf of
+the respondent No.2 also does not wish to contest the matter.
+As such, we could have very well allowed the appeals as
+being uncontested.   However, since an important question
+with regard to interpretation of Section 12A of the IBC arises,
+we are inclined to consider the matter for deciding the said
+issue.
+8.We have heard Dr. Abhishek Manu Singhvi, learned
+Senior Counsel appearing on behalf of the appellant.
+9.Dr. Singhvi submits that it is more than well­settled
+that   the  adjudicating   authority   or  the   appellate  authority
+cannot sit in an appeal over the commercial wisdom of CoC.
+6He submitted that the CoC, having accepted the Settlement
+Plan with the voting majority of 94.23%, the learned NCLT
+and the learned NCLAT have grossly erred in rejecting the
+Settlement Plan and withdrawal of CIRP.
+10.Dr. Singhvi submitted that one of the main objects of
+the IBC is permitting the Corporate Debtor to continue as an
+on­going concern and at the same time, paying the dues of
+the   creditors   to   the   maximum.     He   submits   that   the
+impugned judgment dated 28th January 2022 passed by the
+learned   NCLAT   and   the   orders   dated   12th  August   2021
+passed by the learned NCLT are totally contrary to the spirit
+behind the IBC.
+11.For   considering   these   submissions,   it   will   be
+apposite to refer to Section 12A of the IBC, which reads thus:
+“12­A.   Withdrawal   of   application   admitted
+under   Section   7,   9   or   10 .—The   Adjudicating
+Authority may allow the withdrawal of application
+admitted under Section 7 or Section 9 or Section
+10, on an application made by the applicant with
+the approval of ninety per cent. voting share of
+the committee of creditors, in such manner as
+may be specified.”
+712.It is relevant to note that Section 12A of the IBC was
+brought in the statute book vide  Insolvency and Bankruptcy
+Code (Second Amendment) Act, 2018 ( Act No. 26 of 2018).
+The Statement of Objects and Reasons (for short “SOR”) of
+the Act No. 26 of 2018 would reveal that after the IBC was
+enacted in 2016, it had emerged that further fine tuning of
+the   IBC   would   be   required.     The   Government   therefore
+constituted   an   Insolvency   Law   Committee   (hereinafter
+referred to as the “said Committee”) to review the functioning
+and implementation of the IBC.  The SOR would further reveal
+that   the   recommendations   of   the   said   Committee   were
+examined by the Government and it was accordingly decided
+to amend the IBC. One of the amendments proposed was for
+making a provision for withdrawal of application for initiation
+of   CIRP   admitted   by   Adjudicating   Authority.     It   was
+recommended that such an exit should be allowed provided
+the CoC approves such action by 90% voting share. 
+13.It will be relevant to refer to Clause (vii) of the key
+recommendations in the Report of the said Committee dated
+26th March 2018, which reads thus:
+8“(vii)     in   order   to   cater   to   exceptional
+circumstances   warranting   withdrawal   of   an
+application for CIRP post­admission, it has been
+recommended to allow such exit provided the CoC
+approves such action by ninety per cent of voting
+share;”
+14.It will also be relevant to refer to paragraph (29) of
+the Report of the said Committee, which reads thus:
+“29.   WITHDRAWAL   OF   CIRP   PROCEEDINGS
+PURSUANT TO SETTLEMENT  
+29.1 Under rule 8 of the CIRP Rules, the NCLT
+may permit withdrawal of the application on a
+request   by   the   applicant   before   its   admission.
+However, there is no provision in the Code or the
+CIRP   Rules   in   relation   to   permissibility   of
+withdrawal post admission of a CIRP application.
+It was observed by the Committee that there have
+been instances where on account of settlement
+between the applicant creditor and the corporate
+debtor, judicial permission for withdrawal of CIRP
+was   granted.   This   practice   was   deliberated   in
+light of the objective of the Code as encapsulated
+in the BLRC Report, that the design of the Code is
+based on ensuring that “ all key stakeholders will
+participate to collectively assess viability. The law
+must   ensure   that   all   creditors   who   have   the
+capability and the willingness to restructure their
+liabilities must be part of the negotiation process.
+The liabilities of all creditors who are not part of
+the negotiation process must also be met in any
+negotiated   solution. ”   Thus,   it   was   agreed   that
+once   the   CIRP   is   initiated,   it   is   no   longer   a
+proceeding   only   between   the   applicant   creditor
+and the corporate debtor but is envisaged to be a
+9proceeding involving all creditors of the debtor.
+The intent of the Code is to discourage individual
+actions   for   enforcement   and   settlement   to   the
+exclusion of the general benefit of all creditors. 
+29.2     On   a   review   of   the   multiple   NCLT   and
+NCLAT judgments in this regard, the consistent
+pattern that emerged was that a settlement may
+be reached amongst all creditors and the debtor,
+for the purpose of a withdrawal to be granted,
+and   not   only   the   applicant   creditor   and   the
+debtor. On this basis read with the intent of the
+Code, the Committee unanimously agreed that
+the relevant rules may be amended to provide
+for   withdrawal   post   admission   if   the   CoC
+approves of such action by a voting share of
+ninety   per   cent.   It   was   specifically   discussed
+that   rule   11   of   the   National   Company   Law
+Tribunal Rules, 2016 may not be adopted for this
+aspect of CIRP at this stage (as observed by the
+Hon’ble   Supreme   Court   in   the   case   of   Uttara
+Foods   and   Feeds   Private   Limited   v.   Mona
+Pharmacem ) and even otherwise, as the issue can
+be specifically addressed by amending rule 8 of
+the CIRP Rules.” 
+15.It could thus be seen from the Report of the said
+Committee that, the said Committee had observed that there
+have been instances where on account of settlement between
+the   applicant   creditor   and   the   corporate   debtor,   judicial
+permission for withdrawal of CIRP was granted.  The Report
+would further reveal that it refers to Banking Law Reforms
+10Committee   Report   which   emphasizes   that   the   law   must
+ensure that all creditors who have the capability and the
+willingness to restructure their liabilities must be part of the
+negotiation process. It also emphasizes that the liabilities of
+all creditors who are not part of the negotiation process must
+also be met in any negotiated solution.  The said Committee
+states   that   once   the   CIRP   is   initiated,   it   is   no   longer   a
+proceeding   only   between   the   applicant   creditor   and   the
+corporate debtor but is envisaged to be a proceeding involving
+all   creditors   of   the   debtor.   The   intent   of   the   IBC   is   to
+discourage individual actions for enforcement and settlement
+to the exclusion of the general benefit of all creditors.   The
+Report would further reveal that a settlement may be reached
+amongst all creditors and the debtor, for the purpose of a
+withdrawal to be granted, and not only the applicant creditor
+and the debtor. The said Committee therefore recommended
+that   the   relevant   rules   may   be   amended   to   provide   for
+withdrawal post admission if the CoC approves of such action
+by a voting share of ninety per cent. 
+1116.It could thus be seen that Section 12A of the IBC was
+brought   in   the   statute   book   on   the   basis   of   the   said
+Committee’s Report. It could be noticed that though by the
+Amendment Act No. 26 of 2018, the voting share of 75% of
+CoC for approval of the Resolution Plan was brought down to
+66%,   Section   12A   of   the   IBC   which   was   brought   in   the
+statute book by the same amendment, requires the voting
+share of 90% of CoC for approval of withdrawal of CIRP.  It
+could thus clearly be seen that a more stringent provision
+has been made insofar as withdrawal of CIRP is concerned.
+17.It is further to be noted that after Section 12A of the
+IBC was brought in the statute book, Regulation 30A of the
+2016 Regulations came to be inserted vide notification dated
+3rd  July   2018.     The   same   came   to   be   substituted   vide
+notification dated 25th July 2019.  Regulation 30A of the 2016
+Regulations reads thus:
+“30­A.   Withdrawal   of   application .—(1)   An
+application   for   withdrawal   under   Section   12­A
+may be made to the Adjudicating Authority—
+(a)   before   the   constitution   of   the
+committee,   by   the   applicant   through
+the interim resolution professional;
+12(b)   after   the   constitution   of   the
+committee,   by   the   applicant   through
+the interim resolution professional or
+the resolution professional, as the case
+may be:
+Provided   that   where   the   application   is   made
+under clause ( b) after the issue of invitation for
+expression of interest under Regulation 36­A, the
+applicant   shall   state   the   reasons   justifying
+withdrawal after issue of such invitation.
+(2) The application under sub­regulation (1) shall
+be   made   in   Form   FA   of   the   Schedule
+accompanied by a bank guarantee—
+(a)   towards   estimated   expenses
+incurred   on   or   by   the   interim
+resolution professional for purposes of
+Regulation 33, till the date of filing of
+the application under clause ( a) of sub­
+regulation (1); or
+(b)   towards   estimated   expenses
+incurred for purposes of clauses ( aa),
+(ab), (c) and (d) of Regulation 31, till
+the   date   of   filing   of   the   application
+under clause ( b) of sub­regulation (1).
+(3) Where an application for withdrawal is under
+clause   ( a)   of   sub­regulation   (1),   the   interim
+resolution   professional   shall   submit   the
+application   to   the   Adjudicating   Authority   on
+behalf of the applicant, within three days of its
+receipt.
+(4) Where an application for withdrawal is under
+clause   (b)   of   sub­regulation   (1),   the   committee
+shall consider the application, within seven days
+of its receipt.
+(5)   Where   the   application   referred   to   in   sub­
+regulation (4) is approved by the committee with
+13ninety   percent   voting   share,   the   resolution
+professional shall submit such application along
+with   the   approval   of   the   committee,   to   the
+Adjudicating Authority on behalf of the applicant,
+within three days of such approval.
+(6)   The   Adjudicating   Authority   may,   by   order,
+approve   the   application   submitted   under   sub­
+regulation (3) or (5).
+(7) Where the application is approved under sub­
+regulation   (6),   the   applicant   shall   deposit   an
+amount, towards the actual expenses incurred for
+the purposes referred to in clause ( a) or clause ( b)
+of sub­regulation (2) till the date of approval by
+the Adjudicating Authority, as determined by the
+interim   resolution   professional   or   resolution
+professional, as the case may be, within three
+days of such approval, in the bank account of the
+corporate   debtor,   failing   which   the   bank
+guarantee received under sub­regulation (2) shall
+be invoked, without prejudice to any other action
+permissible   against   the   applicant   under   the
+Code.”
+18.A perusal of the said Regulation would reveal that
+where an application for withdrawal under Section 12A of the
+IBC is made after the  constitution of  the  Committee, the
+same   has   to   be   made   through   the   interim   resolution
+professional or the resolution professional, as the case may
+be.  The application has to be made in Form­FA.  It further
+provides that when an application is made after the issue of
+invitation for expression of interest under Regulation 36A, the
+14applicant   is   required   to   state   the   reasons   justifying
+withdrawal of the same.  The RP is required to place such an
+application  for   consideration   before   the  Committee.     Only
+after such an application is approved by the Committee with
+90% voting share, the RP shall submit the same along with
+the approval of the Committee to the adjudicating authority.
+It could thus be seen that a detailed procedure is prescribed
+under Regulation 30A of the 2016 Regulations as well.
+19.In the case of  Swiss Ribbons Privated Limited and
+Another   v.   Union   of   India   and   Others1,   one   of   the
+challenges made was with regard to validity of Section 12A of
+the IBC.  It was argued that the figure of 90% voting share
+was   arbitrary.   It   was   the   contention   that   though   the
+withdrawal was just and proper, the CoC could exercise the
+power arbitrarily to reject such a settlement. While rejecting
+the said contention, this Court observed thus:
+“83. The   main   thrust   against   the   provision   of
+Section 12­A is the fact that ninety per cent of the
+Committee of Creditors has to allow withdrawal.
+This high threshold has been explained in the ILC
+Report as all financial creditors have to put their
+heads   together   to   allow   such   withdrawal   as,
+1 (2019) 4 SCC 17
+15ordinarily,   an   omnibus   settlement
+involving  all creditors ought, ideally, to be entered
+into. This explains why ninety per cent, which is
+substantially all the financial creditors, have to
+grant their approval to an individual withdrawal
+or settlement. In any case, the figure of ninety per
+cent, in the absence of anything further to show
+that it is arbitrary, must pertain to the domain of
+legislative policy, which has been explained by
+the Report (supra). Also, it is clear, that under
+Section   60   of   the   Code,   the   Committee   of
+Creditors   do   not   have   the   last   word   on   the
+subject. If the Committee of Creditors arbitrarily
+rejects   a   just   settlement   and/or   withdrawal
+claim, NCLT, and thereafter,  NCLAT can always set
+aside such decision under Section 60 of the Code.
+For all these reasons, we are of the view that
+Section 12­A also passes constitutional muster.”  
+20.It could thus be seen that this Court has found that
+if   the   CoC   arbitrarily   rejects   a   just   settlement   and/or
+withdrawal   claim,   the   learned   NCLT   and   thereafter   the
+learned NCLAT can always set aside such decision under the
+provisions of the IBC.
+21.This Court has consistently held  that the commercial
+wisdom of the CoC has been given paramount status without
+any judicial intervention for ensuring completion of the stated
+processes within the timelines prescribed by the IBC. It has
+been held that there is an intrinsic assumption, that financial
+16creditors   are   fully   informed   about   the   viability   of   the
+corporate debtor and feasibility of the proposed resolution
+plan. They act on the basis of thorough examination of the
+proposed resolution plan and assessment made by their team
+of experts.  A reference in this respect could be made to the
+judgments of this Court in the cases of   K. Sashidhar v.
+Indian   Overseas   Bank   and   Others2,  Committee   of
+Creditors   of   Essar   Steel   India   Limited   through
+Authorised   Signatory   v.   Satish   Kumar   Gupta   and
+Others3,  Maharashtra   Seamless   Limited   v.
+Padmanabhan   Venkatesh   and   Others4,   Kalpraj
+Dharamshi and Another v. Kotak Investment Advisors
+Limited and Another5, and Jaypee Kensington Boulevard
+Apartments   Welfare   Association   and   Others   v.   NBCC
+(India) Limited and Others6.
+2 (2019) 12 SCC 150
+3 (2020) 8 SCC 531
+4 (2020) 11 SCC 467
+5 (2021) 10 SCC 401
+6 (2022) 1 SCC 401
+1722.No doubt that the aforesaid observations have been
+made by this Court while considering the powers of the CoC
+while granting its approval to the Resolution Plan.
+23.As already stated hereinabove, the provisions under
+Section 12A of the IBC have been made more stringent as
+compared to Section 30(4) of the IBC.  Whereas under Section
+30(4) of the IBC, the voting share of CoC for approving the
+Resolution Plan is 66%, the requirement under Section 12A
+of the IBC for withdrawal of CIRP is 90%.
+24.When 90% and more of the creditors, in their wisdom
+after due deliberations, find that it will be in the interest of all
+the stake­holders to permit settlement and withdraw CIRP, in
+our   view,   the   adjudicating   authority   or   the   appellate
+authority cannot sit in an appeal over the commercial wisdom
+of CoC. The interference would be warranted only when the
+adjudicating authority or the appellate authority finds the
+decision   of   the   CoC   to   be   wholly   capricious,   arbitrary,
+irrational and   de hors  the provisions of the statute or the
+Rules.
+1825.In the present case, the proceedings of the 13th, 14th
+and 15th meetings of CoC would clearly show that there were
+wide deliberations amongst the members of the CoC while
+considering   the   Settlement   Plan   as   submitted   by   the
+appellant.  Not only that, the proceedings would also reveal
+that after suggestions were made by some of the members of
+the   CoC,   suitable   amendments   were   carried   out   in   the
+Settlement Plan by the appellant.  One of the members of the
+CoC having voting share of 23.60%, though initially opposed
+the Settlement Plant, subsequently decided to support the
+same.   Accordingly, the NCLT itself, vide order dated 29th
+March 2021, directed the RP to reconvene the CoC meeting.
+As per the directions of the NCLT, on 1st April 2021, the 17th
+meeting of the CoC was reconvened, wherein the Settlement
+Plan was approved by 94.23% votes.  
+26.It is thus clear that the decision of the CoC was
+taken after the members of the CoC, had due deliberation to
+consider the pros and cons of the Settlement Plan and took a
+decision   exercising   their   commercial   wisdom.     We   are
+therefore   of   the   considered   view   that   neither   the   learned
+19NCLT nor the learned NCLAT were justified in not giving due
+weightage to the commercial wisdom of CoC.
+27.This Court has, time and again, emphasized the need
+for minimal judicial interference by the NCLAT and NCLT in
+the framework of IBC.  We may refer to the recent observation
+of this Court made in the case of  Arun Kumar Jagatramka
+v. Jindal Steel and Power Limited and Another7:
+“95.  ….However, we do take this opportunity to
+offer   a   note   of   caution   for   NCLT   and  NCLAT,
+functioning   as   the   adjudicatory   authority   and
+appellate   authority   under   the   IBC   respectively,
+from   judicially   interfering   in   the   framework
+envisaged   under   the   IBC.   As   we   have   noted
+earlier in the judgment, the IBC was introduced
+in   order   to   overhaul   the   insolvency   and
+bankruptcy   regime   in   India.   As   such,   it   is   a
+carefully considered and well thought out piece of
+legislation   which   sought   to   shed   away   the
+practices   of   the   past.   The   legislature   has   also
+been working hard to ensure that the efficacy of
+this   legislation   remains   robust   by   constantly
+amending   it   based   on   its   experience.
+Consequently, the need for judicial intervention
+or   innovation   from   NCLT   and  NCLAT should   be
+kept at its bare minimum and should not disturb
+the foundational principles of the IBC…..”
+28.In the result, we pass the following order:
+7 (2021) 7 SCC 474
+20(i)The appeals are allowed;
+(ii)The   impugned  judgment   dated  28th  January  2022
+delivered by the learned NCLAT in Company Appeal
+(AT)(CH)(Insolvency) Nos. 211 and 212 of 2021 and
+the orders dated 12th  August 2021 passed by the
+learned   NCLT   in   MA/43/CHE/2021   in
+IBA/453/2019   and   in   IA/837/IB/2020   in
+IBA/453/2019 are quashed and set aside; and 
+(iii)The   application   bearing   No.   MA/43/CHE/2021   in
+IBA/453/2019 filed by the Resolution Professional
+before the learned NCLT for withdrawal of CIRP is
+allowed.
+29.Pending application(s), if any, shall stand disposed of
+in the above terms.  No order as to costs.
+…..….......................J.
+[B.R. GAVAI]
+             
+    …….........................J.
+[HIMA KOHLI]
+NEW DELHI;
+JUNE 03, 2022.
+21
